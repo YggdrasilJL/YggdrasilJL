@@ -46,13 +46,14 @@ I'm all about connecting with like-minded tech enthusiasts, learning from others
 Thanks for stopping by!
 <br>
 <br>
+
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=yggdrasiljl&hide=stars,issues&show=prs_merged&show_icons=true&theme=gruvbox&border_color=d1d189&rank_icon=github)](https://github.com/yggdrasiljl/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yggdrasiljl&layout=donut&theme=gruvbox&border_color=d1d189)](https://github.com/yggdrasiljl/github-readme-stats)
+
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yggdrasiljl&layout=donut&theme=gruvbox)](https://github.com/yggdrasiljl/github-readme-stats)
-<br>
-<br>
-<br>
-<br>
+
 _P.S. If you're interested in sharing tech insights or just want to chat, don't hesitate to reach out!_
 
 </h3>
